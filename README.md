@@ -6,3 +6,4 @@ Copy those files in your folder and make a network file with NetEdit or make it 
 Make a route file or trip file or flow file 
 Place both all 4 files (duaIterate.py , Costmemory.py , .Net file and .trips.xml) in one directory and open cmd and change the location to that folder containing these file.
 Type this command python duaIterate.py -n <name of your network file> -t <name of your trip or route file> -l <any integer value to specify no. of iterations>
+for more details visit https://sumo.dlr.de/docs/DUAROUTER.html 
